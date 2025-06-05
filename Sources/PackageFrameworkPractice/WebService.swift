@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+public class WebService {
+    public init() {}
+    
+    public func fetchData() {
+        print("Fetching data from server")
+    }
+}
